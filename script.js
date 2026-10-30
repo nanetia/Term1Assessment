@@ -30,7 +30,7 @@ happyBtn.addEventListener("click", function () {
 sadBtn.addEventListener("click", function () {
 
     // TODO: Change the message to show a sad mood
-    message.textContent = "sad mood";
+    message.textContent = "sad mood"
 
     // This line changes the background color
     document.body.style.backgroundColor = "#03444d";
